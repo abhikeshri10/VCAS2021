@@ -881,7 +881,7 @@ section
 .home_title h1 span
 {
 	display: block;
-	font-size: 35px;
+	font-size: 28px;
 	font-weight: 400px;
 	color: white;
 	line-height: 1;
@@ -893,7 +893,7 @@ section
 {
 	color: #ff9100;
 	/* font-style: italic; */
-	font-size: 60px;
+	font-size: 55px;
 	font-weight: 500;
 }
 .home_info_container
